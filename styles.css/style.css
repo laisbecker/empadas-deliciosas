@@ -1,0 +1,56 @@
+.bg-color {
+    background-color: rgba(247, 247, 247, 0.575);
+}
+
+.header-style {
+    padding: 20px !important;
+}
+
+.jc-center {
+    display: flex;
+    justify-content: center !important;
+}
+
+.bg-yellow {
+    background-color: rgba(255, 212, 19, 0.801) !important;
+}
+
+.titulo-empadas {
+    font-size: 35px;
+    color: rgb(255, 136, 0);
+    font-weight: 700;
+}
+
+.padding-nav-bar {
+    padding: 10px;
+}
+
+.titulo-topicos {
+    font-size: 22px;
+    color: rgb(255, 136, 0);
+    font-weight: 700;
+}
+
+.link-color {
+    color:rgb(255, 136, 0) !important;
+}
+
+.card-style {
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.1) !important;
+    border-radius: 0px !important;
+    border: none !important;
+    padding: 20px !important;
+}
+
+.card-mg {
+    width: 65vw;
+    min-width: 300px !important;
+}
+
+.card-img {
+    width: 300px !important;
+}
+
+.espaco-cardapio {
+    padding-bottom: 50px;
+}
